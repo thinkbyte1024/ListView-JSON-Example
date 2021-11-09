@@ -1,0 +1,33 @@
+[
+    {
+        "name" : "Yosemite",
+        "subtitle" : "Situated along the north side of the valley floor, its permanent population includes staff of the National Park Service, which administers the park, and some concession workers associated with various contracts in the Park.",
+        "desc" : "Voluptatem est est sed repellat libero qui sed. Hic temporibus aperiam autem tempora eos et earum expedita. Exercitationem omnis odio velit rerum doloremque. Dicta architecto suscipit enim quidem accusantium ipsum omnis culpa. Ut minus laborum quae sunt.\nRecusandae sapiente expedita itaque quis quae repudiandae minima a. Fuga quia sunt est provident repellendus. Consectetur qui est accusamus repellendus. Ad voluptas esse ducimus ratione. Nam doloremque voluptatem officiis. Sequi amet qui amet et et laboriosam et qui.\nMolestias qui eaque molestiae et non delectus aut. Quasi a tenetur vero. Animi voluptatum repudiandae consectetur deserunt illo voluptatem.",
+        "icon" : "yosemite"
+    },
+    {
+        "name" : "Mojave",
+        "subtitle" : "Located near Edwards Air Force Base, Naval Air Weapons Station China Lake, and Palmdale Regional Airport, Mojave has a rich aerospace history.",
+        "desc" : "Quo mollitia labore similique vitae. Voluptas blanditiis repellat voluptatem reiciendis veritatis nulla qui eos. Optio excepturi ad fugit aut corporis earum dolor sit. Dolore maxime eos tempore. Voluptas debitis quo nam qui. Corrupti dignissimos dolorem exercitationem et impedit expedita.\nDolorem est nisi odit est laudantium repellendus tempore magni. Inventore eligendi et earum perferendis. Voluptatem cupiditate suscipit et omnis voluptas deserunt sint. Mollitia natus blanditiis sit. Dolor deleniti maxime quos fugit. Est pariatur est commodi soluta.\nMinus rerum neque mollitia consequatur. Qui modi laborum architecto mollitia unde. Sit et est molestiae.",
+        "icon" : "mojave"
+
+    },
+    {
+        "name" : "Catalina",
+        "subtitle" : "Santa Catalina Island is a rocky island off the coast of Southern California in the Gulf of Santa Catalina.",
+        "desc" : "Est eaque aspernatur veniam velit aut. Sequi rerum molestias laudantium. Et blanditiis cumque unde accusamus. Et officia odit earum numquam sed necessitatibus quasi et.\nOdit magni sed est. Architecto reprehenderit nam eos possimus. Animi eum labore perferendis molestiae accusantium. Earum hic sit numquam ipsam ducimus rem perspiciatis veritatis. Architecto explicabo voluptas voluptate quaerat nihil quo.\nVoluptatibus dignissimos excepturi molestias porro totam sint rerum eaque. Atque libero ex voluptate aliquid voluptatem quis consequatur suscipit. Sit culpa qui aliquam. Ipsam explicabo quibusdam dignissimos voluptatem aspernatur alias aut.",
+        "icon" : "catalina"
+    },
+    {
+        "name" : "Big Sur",
+        "subtitle" : "Big Sur is a rugged and mountainous section of the Central Coast of California between Carmel and San Simeon, where the Santa Lucia Mountains rise abruptly from the Pacific Ocean.",
+        "desc" : "Nobis nisi quos sapiente sequi. Distinctio repellat est nihil impedit harum vel. Fuga animi dolorum quia rem fugit dolor. Soluta saepe et quaerat. Earum repellat voluptatem rerum molestias facere sunt et.\nPariatur aliquid corporis et accusantium modi inventore quia enim. In molestiae deleniti culpa neque. Nostrum dicta in illum est velit velit occaecati nulla.\nDeleniti et quia eaque eum in. Nisi at sunt voluptas voluptatem. Sint quo vel labore ab omnis repellendus iure modi. Numquam cumque et dicta eius blanditiis. Inventore voluptatum quis numquam. Recusandae commodi dolor eveniet quia delectus provident quae.",
+        "icon" : "big_sur"
+    },
+    {
+        "name" : "Monterey",
+        "subtitle" : "Monterey is a city located in Monterey County on the southern edge of Monterey Bay on the U.S. state of California's Central Coast.",
+        "desc" : "Hic minus dolorum sit. Vitae sapiente beatae voluptatibus. Quia sequi dolorum mollitia tempore ducimus sunt fugit natus. Et aperiam et sequi quia. Beatae quis officiis eum velit quasi ea. Voluptatem quis dolor eligendi recusandae ipsa reprehenderit omnis nulla.\nUt consequuntur culpa possimus autem aut debitis voluptatibus mollitia. Eaque dolorem assumenda dolorem illo ea ut facere at. Delectus repudiandae odio nisi nesciunt. Soluta quibusdam quod dicta totam aut iusto accusantium. Voluptas enim recusandae sed. Pariatur rem aspernatur delectus accusantium.\nAd iusto ea voluptatem eaque libero. Quia alias similique suscipit temporibus omnis. Amet libero eligendi voluptas aut sed.",
+        "icon" : "monterey"
+    }
+]
