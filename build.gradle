@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) 2021 Muhammad Aditya P. D.
+ * You are prohibited to copy this source code without my permission
+ * This project is intended for academic purpose only
+ */
+
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 buildscript {
     repositories {

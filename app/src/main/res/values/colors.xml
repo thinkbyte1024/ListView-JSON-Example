@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2021 Muhammad Aditya P. D.
+  ~ You are prohibited to copy this source code without my permission
+  ~ This project is intended for academic purpose only
+  -->
+
 <resources>
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>

@@ -1,4 +1,8 @@
-// Copyright
+/*
+ * Copyright (c) 2021 Muhammad Aditya P. D.
+ * You are prohibited to copy this source code without my permission
+ * This project is intended for academic purpose only
+ */
 package com.example.listviewapp
 
 import android.content.Intent

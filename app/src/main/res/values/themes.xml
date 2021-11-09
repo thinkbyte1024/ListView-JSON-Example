@@ -1,3 +1,9 @@
+<!--
+  ~ Copyright (c) 2021 Muhammad Aditya P. D.
+  ~ You are prohibited to copy this source code without my permission
+  ~ This project is intended for academic purpose only
+  -->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
     <style name="Theme.ListViewApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
